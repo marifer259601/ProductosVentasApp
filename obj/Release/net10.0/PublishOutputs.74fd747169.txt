@@ -1,0 +1,7 @@
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\ProductosVentasApp.exe
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\appsettings.Development.json
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\appsettings.json
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\ProductosVentasApp.dll
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\ProductosVentasApp.deps.json
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\ProductosVentasApp.runtimeconfig.json
+C:\Users\maria\Downloads\EXAMEN\ProductosVentasApp\ProductosVentasApp\bin\Release\net10.0\publish\ProductosVentasApp.pdb
